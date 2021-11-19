@@ -1,7 +1,7 @@
 const parzi = require("aoi.js")
 var fs = require('fs')
-const bot = new parzi.Bot({
-    token: "ODI2NTEyMDMyNjk3ODEwOTk1.YGNjUA.MMYR7LN7RbreHbjdfyd5w_Hlzeo",//.env dosyasında token yazan variablenin değerine tokeninizi yazın
+const bot = new discord.Bot({
+    token: "token gir",//.env dosyasında token yazan variablenin değerine tokeninizi yazın
     prefix:"$getServerVar[prefix]"//ayarlamalı prefix 
 })
 bot.onJoined()
