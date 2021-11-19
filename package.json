@@ -1,0 +1,16 @@
+{
+  "name": "proje",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "batu",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^1.0.6",
+    "index": "^0.4.0",
+    "yt-search": "^2.10.2"
+  }
+}
